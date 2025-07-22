@@ -18,6 +18,16 @@ A simple **console-based Expense Tracker** built using Java. This application al
 ---
 
 ## 📸 Sample Output
+```
+Expense Summary:
+Date            Description          Amount (in rupees)
+-------------------------------------------------------
+10/7/2025       Groceries            500.00
+12/7/2025       Transport            120.00
+-------------------------------------------------------
+Total                                620.00
+You are under your budget by: 380.00/-
+```
 
 ---
 
